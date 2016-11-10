@@ -1,1 +1,2 @@
-注册github也有好久了，从来没有开始在这上面写点什么，以后的随笔就记录在这里
+### [移动端自适应方案调研](https://github.com/tiansn/blog/issues/2)
+### [冒泡排序](https://github.com/tiansn/blog/issues/1)
